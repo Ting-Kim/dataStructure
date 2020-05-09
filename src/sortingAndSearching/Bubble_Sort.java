@@ -1,6 +1,6 @@
-package bubble_sort;
+package sortingAndSearching;
 
-public class Test {
+public class Bubble_Sort {
 	
 	private static void bubbleSort(int[] arr) {
 		bubbleSort(arr,arr.length-1);

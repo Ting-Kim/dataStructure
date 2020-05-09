@@ -1,6 +1,6 @@
-package selection_sort;
+package sortingAndSearching;
 
-public class Test {
+public class Selection_Sort {
 	private static void selectionSort(int[] arr) {
 		selectionSort(arr,0);
 	}
